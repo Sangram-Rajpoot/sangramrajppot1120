@@ -23,8 +23,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sangram-rajpoot-b9b9b9264/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rajputsanju2622@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sangramrajppot1120"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://sangramrajppot1120.github.io/Portfolio/"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Sangram-Rajpoot"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://Sangram-Rajpoot.github.io/Portfolio/"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </p>
 
@@ -121,7 +121,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramrajppot1120&layout=compact&theme=dark&hide_border=false&border_radius=10)](https://github.com/sangramrajppot1120)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-Rajpoot&layout=compact&theme=dark&hide_border=false&border_radius=10)](https://github.com/Sangram-Rajpoot)
 
 </details>
 
@@ -130,7 +130,7 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangramrajppot1120&show_icons=true&theme=dark&hide_border=false&border_radius=10)](https://github.com/sangramrajppot1120)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangram-Rajpoot&show_icons=true&theme=dark&hide_border=false&border_radius=10)](https://github.com/Sangram-Rajpoot)
 
 </details>
 
@@ -141,7 +141,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramrajppot1120&theme=dark&hide_border=false&border_radius=10&fire=FFA500" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangram-Rajpoot&theme=dark&hide_border=false&border_radius=10&fire=FFA500" alt="GitHub Streak Stats" />
 </p>
 
 </details>
