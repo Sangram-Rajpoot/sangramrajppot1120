@@ -1,4 +1,3 @@
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0aa0a0&height=150&section=header)
 
 <p align="center">
@@ -10,11 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=sangramrajpoot&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="profile views" />
 </p>
 
-### A Software Developer from Bhopal, India
+### A Devops Engineer from Bhopal, India
 
-- 🌱 I’m currently learning **Java, Spring Boot, Spring Framework, Clean Code, Design Patterns**
-- 💬 Ask me about **Spring Framework**
-
+- 🌱 I’m currently learning **Java, Spring Boot, Spring Framework, Clean Code, Design Patterns, AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Linux, CI/CD, DevSecOps**
+- 💬 Ask me about **Spring Framework, DevOps, Cloud, Docker, Terraform**
 
 ---
 
@@ -61,7 +59,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
 
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
@@ -76,6 +73,34 @@
 
   <a href="https://www.oracle.com/database/">
     <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  </a>
+
+  <a href="https://www.jenkins.io/">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  </a>
+
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 
 </p>
@@ -113,8 +138,19 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 
-</p>
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
 
+  <a href="https://sonarcloud.io/">
+    <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
+  </a>
+
+  <a href="https://trivy.dev/">
+    <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white" />
+  </a>
+
+</p>
 
 <details>
 <summary>📊 <strong>Most Used Languages</strong></summary>
@@ -134,7 +170,6 @@
 
 </details>
 
-
 <details>
 <summary>🔥 <strong>Streak Stats</strong></summary>
 
@@ -146,12 +181,6 @@
 
 </details>
 
-
-
-
-
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa0a0&height=150&section=footer"/>
-
-
